@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a729254d-eb87-4eeb-8fef-9fb6458679d2" name="Changes" comment="" />
+    <list default="true" id="a729254d-eb87-4eeb-8fef-9fb6458679d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/LogicScript.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LogicScript.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PipeMiddleScript.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PipeMiddleScript.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fluppy Berd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fluppy Berd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pipe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pipe.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,16 +22,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/LogicScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PipeMiddleScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2lI5Mxe6ahF9u5dUf3M0RJKmcg8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -87,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724854706841</updated>
-      <workItem from="1724854709518" duration="723000" />
+      <workItem from="1724854709518" duration="2231000" />
     </task>
     <servers />
   </component>
@@ -97,6 +114,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
