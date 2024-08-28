@@ -271,7 +271,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: -0.09, y: -0.45}
   m_Radius: 2.01
---- !u!114 &435490078
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -285,6 +284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRigidbody: {fileID: 435490075}
   flapStrength: 12
+
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
