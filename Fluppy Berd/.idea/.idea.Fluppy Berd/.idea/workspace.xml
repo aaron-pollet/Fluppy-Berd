@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a729254d-eb87-4eeb-8fef-9fb6458679d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/LogicScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/LogicScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PipeMiddleScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PipeMiddleScript.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fluppy Berd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fluppy Berd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pipe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pipe.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BirdScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BirdScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LogicScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LogicScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PipeMiddleScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PipeMiddleScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PipeSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PipeSpawner.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "add-game-over-logic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724854706841</updated>
-      <workItem from="1724854709518" duration="2231000" />
+      <workItem from="1724854709518" duration="3768000" />
     </task>
     <servers />
   </component>
