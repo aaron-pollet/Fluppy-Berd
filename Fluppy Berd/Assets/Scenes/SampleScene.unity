@@ -223,7 +223,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 3
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -271,6 +271,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: -0.09, y: -0.45}
   m_Radius: 2.01
+--- !u!114 &435490078
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -282,9 +283,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8994cbdf34824e7ba95a7472a0767d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myRigidbody: {fileID: 435490075}
-  flapStrength: 12
-
+  rigidBody: {fileID: 435490075}
+  flapStrength: 15
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 294349999593560602, guid: 30a0a89d289944bada1ac6c334b2ed97, type: 3}
-  spawnRate: 2
+  spawnRate: 3
   heightOffset: 10
 --- !u!4 &925548310
 Transform:
@@ -547,7 +547,7 @@ Transform:
   m_GameObject: {fileID: 925548308}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.6, y: 0.6, z: -0.2763678}
+  m_LocalPosition: {x: 24.68, y: 0.58, z: -0.2763678}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
